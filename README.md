@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @prajwolsubedi
-- 👀 I’m interested in learning coding.
-- 🌱 I’m currently learning c programming.
-- 💞️ I’m looking to collaborate on ...
-- 📫 you can reach me via email:- prajwolsubedizzz@gmail.com
+- I'm learning coding at lightning speed.
+- I'm currently doing 100days of coding challenge.
+- I'm learning web development as of now
+- Email -> prajwolsubedizzz@gmail.com
+- linkedIn -> https://www.linkedin.com/feed/
 
 
 <!---
