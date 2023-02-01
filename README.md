@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm prajwol subedi</h1>
 <h3 align="center">a programmer learning and coding everyday.</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolsubedi" /> </p>
 
