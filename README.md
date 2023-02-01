@@ -5,6 +5,8 @@
 - Email -> prajwolsubedizzz@gmail.com
 - linkedIn -> https://www.linkedin.com/feed/
 
+![GitHub Stats](https://github-readme-stats.vercel.api?username=prajwolsubedi&theme=radical)
+
 
 <!---
 prajwolsubedi/prajwolsubedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
