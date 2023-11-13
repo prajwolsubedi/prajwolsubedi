@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolsubedi" /> </p>
 
-- 🌱 I’m currently learning **Web Development -(Next js) **
+- 🌱 I’m currently learning Web Development -(Next js) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
