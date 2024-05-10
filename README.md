@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolsubedi" /> </p>
 
-- 🌱 I’m currently building my own projects :)
+- 🌱 I’m currently building my own projects.
   
 
 
