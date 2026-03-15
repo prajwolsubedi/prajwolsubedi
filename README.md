@@ -1,10 +1,10 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋 I'm Prajwol Subedi! </h1>
+<h1 align="center">Hi 👋 I'm Prajwol Subedi </h1>
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolsubedi" /> </p>
 
-- 🌱 I am a software developer passionate about building and automating things 
+- 🌱 I am a software developer passionate about building and automating things
   
 
 
