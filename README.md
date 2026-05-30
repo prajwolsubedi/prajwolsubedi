@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwolsubedi&label=Profile%20views&color=0e75b6&style=flat" alt="prajwolsubedi" /> </p>
 
-- 🌱 I am a software developer passionate about building and automating things. 
+- 🌱 I am a software engineer passionate about building and automating things. 
   
 
 
